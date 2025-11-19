@@ -9,8 +9,7 @@ import time
 
 TELEGRAM_TOKEN = "8361915899:AAFWjUtjzFYpbalqkSn0hVLkn-B8LiJkGv4"
 DEEPSEEK_API_KEYS = [
-    "sk-cbba19a2cf154159ac173cc19e3081bf",
-    "sk-a63047fb0dd647188a4dc27d5c640516"
+    "sk-7c4c72baf2bc4fe689bf6a654c964a63"
 ]
 DEEPSEEK_API_URL = "https://api.deepseek.com/v1/chat/completions"
 
